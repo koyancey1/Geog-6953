@@ -6,7 +6,7 @@
 <img src="images/YanceyKo_WorkExample.GIF?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title]>(/pdf/sample_presentation.pdf) <br/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
