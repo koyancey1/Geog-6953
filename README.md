@@ -6,5 +6,6 @@ Use this template if you need a quick developer / data science portfolio! Based 
 
 <img src="images/YanceyKo_WorkExample.GIF?raw=true"/>
 
-[Link]("https://www.linkedin.com/in/yancey-ko-8866274")
+### LinkedIn
+[LinkInProfile]("https://www.linkedin.com/in/yancey-ko-8866274")
 ```
