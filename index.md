@@ -3,8 +3,6 @@
 ---
 
 ### Water Management
-
-[Flow Monitoring](/sample_page)
 <img src="images/YanceyKo_WorkExample.GIF?raw=true"/>
 
 ---
