@@ -1,5 +1,3 @@
-## Developer Portfolio Landing Page Template
-
 ### Introduction
 
 I have possessed Bachelor of Science in Applied Mathematics and Economics and Bachelor of Technology in Distributed Database and Network. <br/>
