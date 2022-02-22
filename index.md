@@ -7,7 +7,7 @@
 
 ---
 ### Pipe Risk Level
-<img src="images/FinalProject.JPG?raw=true"/>
+<img src="images/FinalProject.jpg?raw=true"/>
 
 ---
 ### I&I Statistical Trend
