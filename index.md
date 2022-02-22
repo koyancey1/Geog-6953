@@ -7,10 +7,11 @@
 
 ---
 ### Pipe Risk Level
-<img src="images/Asset Risk.JPGF?raw=true"/>
+<img src="images/Asset Risk.JPG?raw=true"/>
 
-[Project 2 Title]>(/pdf/sample_presentation.pdf) <br/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+### I&I Statistical Trend
+<img src="images/Stat.JPG?raw=true"/>
 
 ---
 
