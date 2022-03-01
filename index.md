@@ -16,7 +16,7 @@
 ---
 
 ### Flow Monitoring for Inflow and Infiltration Story Maps
-<a href="https://storymaps.arcgis.com/stories/4a8b50b155264728a2f17b78f4e31b21" target="_blank"><B>L&L Story Map</B></a>
+<a href="https://storymaps.arcgis.com/stories/4a8b50b155264728a2f17b78f4e31b21" target="blank"><B>L&L Story Map</B></a>
 
 ---
 
