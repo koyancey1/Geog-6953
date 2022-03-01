@@ -14,11 +14,6 @@
 <img src="images/Stat.JPG?raw=true"/>
 
 ---
-
-### I&I Statistical Trend
-<img src="images/Stat.JPG?raw=true"/>
-
----
 https://storymaps.arcgis.com/stories/4a8b50b155264728a2f17b78f4e31b21
 
 ### Flow Monitoring for Inflow and Infiltration Story Maps
